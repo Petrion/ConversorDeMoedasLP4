@@ -1,0 +1,33 @@
+  
+body{
+  background-color: lightslategray;
+  margin: 0;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  text-align: center;
+}
+.linha{
+  display: flex;
+  margin-top: 40px;
+  justify-content: space-around;
+  
+}
+h1{
+  text-align: center;
+}
+
+.App{
+  max-width: 900px;
+  margin: auto;
+
+}
+
+.seta{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 4em;
+  
+}
